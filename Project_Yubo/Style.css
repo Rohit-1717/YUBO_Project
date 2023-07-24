@@ -1,0 +1,1115 @@
+@font-face{
+    font-family:Right ;
+    src: url(./RightGrotesk-CompactBlack.otf);
+
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#page1{
+    height: 100%;
+    width: 100%;
+    background-image: url(https://images.prismic.io/yubo/6118791b-2978-4f39-bc06-0d5d43cd6e93_LargeGraphics.webp?auto=compress,format&rect=0,0,1600,900&w=1680&h=945);
+}
+
+#navigation{
+    top: 40px;
+    position: fixed;
+    height: 60px;
+    width: 100%;
+    /* background-color: blue; */
+    display: flex;
+    gap: 30%;
+    z-index: 99;
+    align-items: center;
+}
+
+
+
+#menu{
+    margin: 50px;
+}
+
+#line1{
+    height: 4px;
+    width: 20px;
+    background-color: #fff;
+    margin-bottom: 5px;
+    border-radius: 2px;
+}
+
+#line2{
+    height: 4px;
+    width: 20px;
+    background-color: #fff;
+    margin-bottom: 5px;
+    border-radius: 2px;
+}
+
+#nav-right{
+    position: absolute;
+    left: 80%;
+    height: 100%;
+    width: 130px;
+    background-color:#151400 ;
+    align-items: center;
+    padding: 10px 15px;
+    border-radius: 65px;
+    margin: 100px;
+
+    
+    
+}
+
+#nav-right i{
+    color: #fff;
+    font-size: 30px;
+}
+
+#nav-right img{
+    position: relative;
+    left: 20px;
+    top: 10px;
+    height: 30px;
+    width: 30px;
+    
+}
+
+#nav-right #line-logo{
+    position: relative;
+    left:-3px;
+    top: 5px;
+}
+
+#nav-right #and{
+    top: 5px;
+    left: -5px;
+    position: relative;
+    
+}
+
+#page1 #l1{
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    align-items:normal;
+    justify-content: center;
+    transform: translate(-50,-50%);
+    font-family:Right ;
+    line-height: 120px;
+    font-size: 160px;
+    color: #FFE30A;
+    font-weight: 700;
+}
+
+#page1 #l2{
+    position: absolute;
+    top: 35%;
+    left: 32%;
+    align-items:normal;
+    justify-content: center;
+    transform: translate(-50,-50%);
+    font-family:Right ;
+    
+    font-size: 160px;
+    color: #FFE30A;
+    font-weight: 700;
+}
+
+#page1 #l3{
+    position: absolute;
+    top: 56%;
+    left: 35%;
+    align-items:normal;
+    justify-content: center;
+    transform: translate(-50,-50%);
+    font-family:Right ;
+    
+    font-size: 160px;
+    color: #FFE30A;
+    font-weight: 700;
+}
+
+
+
+#page2{
+    height: 110%;
+    width: 100%;
+    background-color: #FFE30A;
+    position: relative;
+}
+
+#page2 #message{
+    position: absolute;
+    top: 39%;
+    left: 13.5%;
+    height: 500px;
+    width: 500px;
+}
+
+#message h1{
+    font-size: 121px;
+    font-family: Right;
+    font-weight: 500;
+    line-height: 110px;
+}
+
+#message  #Aple{
+    position: relative;
+    top: 11%;
+}
+
+#Androed{
+    position: relative;
+    top: 11%;
+    left: 8px;
+}
+
+#page2 #phone{
+    position: relative;
+    top: 23.5%;
+    left: 50.5%;
+    height: 600px;
+    width: 400px;
+    
+}
+
+
+#page2 #join{
+    height: 140px;
+    width: 280px;
+    position: relative;
+    top:-39%;
+    left: 25.9%;
+}
+
+#page2 #Hey{
+    height: 100px;
+    width: 180px;
+    position: relative;
+    top:-115px;
+    left: 43%;
+}
+
+#page2 #That-Lit{
+    height: 120px;
+    width: 180px;
+    position: relative;
+    top:-52%;
+    left: 32.9%;
+}
+
+#page2 #Yubo-stand{
+    height:200px;
+    width: 300px;
+    position: relative;
+    top:6.5%;
+    left: 19.89%;
+}
+
+#page2 #Lets-yubo{
+    height: 100px;
+    width: 150px;
+    position: relative;
+    top:-18.5%;
+    left: 8.89%;
+}
+
+
+#page3{
+    height:316%;
+    width: 100%;
+    background-color: #FFE30A;
+}
+
+#page3 #bl-bg{
+    position: relative;
+    height: 190%;
+    width: 100%;
+}
+
+
+
+#page3 #msg{
+    position: absolute;
+    top: 269%;
+    
+    left: 10%;
+    font-family: Right;
+    font-size: 62px;
+    font-weight: 500;
+    line-height: 120px;
+    color: #FFE30A;
+}
+
+ #msg2{
+    height: 300px;
+    width: 420px;
+    position: absolute;
+    top: 20%;
+    margin-left: 550px;
+    
+    
+    font-family:Right Grotesk ;
+    font-size: 30.075px;
+    line-height: 35px;
+    font-weight: 100;
+    color:rgb(255, 255, 255);
+}
+
+ #msg2 button{
+    position: relative;
+    top:10%;
+    left: -4.5%;
+    padding: 14px 20px;
+    margin-inline: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #FFE30A;
+    border: solid #FFE30A;
+    border-radius: 50px;
+
+}
+
+#msg2 button:hover{
+    border: solid #FFE30A;
+    transition: all ease 0.5s;
+    border-width: 1px;
+    background-color:transparent;
+    color: #FFE30A;
+    cursor: pointer;
+}
+
+#page3 #Girl{
+    height: 750px;
+    width:480px;
+    bottom: 138.5%;
+    left: 50%;
+    position: relative;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+#page3 #comment{
+    height:210px;
+    width: 440px;
+    bottom: 165.6%;
+    left: -26%;
+    position: relative;
+}
+
+#note{
+    bottom: 154%;
+    left: 13%;
+    position: relative;
+    color:#fff;
+    font-size: 28.735px;
+    font-weight: 400;
+    line-height: 34.7306px;
+    font-family: Right Grotesk;
+}
+
+#note button{
+    font-size: 17.5px;
+    font-weight: 900;
+    font-family: Right Grotesk;
+    padding: 14px 35px;
+    border-radius: 25px;
+    background-color: #FFE30A;
+    border: solid #FFE30A 1px;
+}
+
+#note button:hover{
+
+    border: solid #FFE30A;
+    transition: all ease 0.5s;
+    border-width: 1px;
+    background-color:transparent;
+    color: #FFE30A;
+    cursor: pointer;
+
+
+}
+
+
+#page3 svg{
+    
+    transform: scaleX(-1) scaleY(-1);
+    position: absolute;
+    z-index: 1;
+    font-family: Right;
+    letter-spacing: .05em;
+    pointer-events: none;
+    font-size: 230%;
+    left: -33%;
+    top: -95%;
+    width: 150%;
+    overflow: hidden;
+    vertical-align: middle;
+
+}
+
+#page4{
+    height: 100%;
+    width: 100%;
+    position: absolute; 
+    
+}
+
+#page4 #yubo-logo{
+    position: relative;
+    top: 20%;
+    height:120px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    
+    gap: 8.5%;
+}
+
+#page4 #yubo-logo H1{
+    margin-left: 180px;
+    color: #FFE30A;
+    font-family: Right;
+    font-size:125px;
+    line-height: 1em;
+}
+
+#yubo-logo img{
+       height: 125px;
+    width: 85px;
+    margin: -19px;
+    
+    
+ }
+
+#yubo-logo button{
+    position: relative;
+    top:-35%;
+    left: 8.5%;
+    padding: 14px 35px;
+    margin-inline: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #FFE30A;
+    border: solid #FFE30A;
+    border-radius: 50px;
+    font-family: Right Grotesk;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+#yubo-logo button:hover{
+    border: solid #FFE30A;
+    transition: all ease 0.5s;
+    border-width: 1px;
+    background-color:transparent;
+    color: #FFE30A;
+    cursor: pointer;
+
+}
+
+#page4 #img-purple{
+ background-image: url(https://www.yubo.live/assets/img/purple-cloud.svg);
+ position: relative;
+ height: 250%;
+ width: 100%;
+ top: 15%;
+}
+
+#img-purple #img-1{
+    position: absolute;
+    left: 15%;
+    top: 20%;
+    height: 490px;
+    width: 350px;
+    background-image: url(https://images.prismic.io/yubo/42e1a41b-e054-4f52-a214-e3ea5e475aa4_Blog_Yubo+Horoscope.png?auto=compress,format);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50px;
+}
+
+#img-purple #img-1 h2{
+    color: #fff;
+    font-family: Right;
+    font-size: 50px;
+    position: absolute;
+    top: 66.5%;
+    left: 9%;
+}
+
+
+#img-purple #img-1 p{
+    
+    color: #fff;
+    font-family: Right Grotesk;
+    font-size: 18px;
+    position: absolute;
+    top: 89%;
+    left: 9%;
+}
+
+#img-1 span>img{
+    height: 21px;
+    width: 20px;
+}
+
+
+#img-purple #img-1 button{
+    position: absolute;
+    top: 20px;
+    left: 245.5px;
+    background-color: #8E6BFF;
+    border: none;
+    font-family: Right;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+    font-size: 16.5px;
+}
+
+
+#elen-in-purple #overlay{
+    position: absolute;
+    left: 15%;
+    top: 25%;
+    height: 450px;
+    width: 350px;
+    
+   
+}
+
+#img-purple #img-2{
+    position: absolute;
+    left: 48%;
+    top: 1%;
+    height: 510px;
+    width: 510px;
+    background-color: red;
+    background-image: url(https://images.prismic.io/yubo/4e7a5333-9e65-4a60-a2d1-7b9680e002f2_Blog_CommunityTipsAndTricks.png?auto=compress,format);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50px;
+}
+
+#img-purple #img-2 h2{
+    color: #fff;
+    font-family: Right;
+    font-size: 50px;
+    position: absolute;
+    top: 50.5%;
+    left: 6%;
+}
+
+#img-purple #img-2 p{
+    
+    color: #fff;
+    font-family: Right Grotesk;
+    font-size: 17px;
+    position: absolute;
+    top: 89%;
+    left: 9%;
+}
+
+#img-purple #img-2 button{
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    background-color:#FF5252;
+    border: none;
+    font-family: Right;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+    font-size: 16.5px;
+}
+
+
+
+#img-purple #img-3{
+    position: absolute;
+    left: 52%;
+    top: 38%;
+    height: 530px;
+    width: 410px;
+    background-color: red;
+    background-image: url(https://images.prismic.io/yubo/f34dcf26-d146-4205-ab86-46e4daef0781_Blog_Community+Building+and+Making+Friends+on+Yubo.png?auto=compress,format);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50px;
+}
+
+#img-purple #img-3 h2{
+    color: #fff;
+    font-family: Right;
+    font-size: 50px;
+    position: absolute;
+    top: 45.5%;
+    left: 6%;
+}
+
+#img-purple #img-3 p{
+    
+    color: #fff;
+    font-family: Right Grotesk;
+    font-size: 17px;
+    position: absolute;
+    top: 92%;
+    left: 7%;
+}
+
+#img-purple #img-3 button{
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    background-color:#FFE500;
+    border: none;
+    font-family: Right;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+    font-size: 16.5px;
+}
+
+
+#footer{
+    position:relative ;
+    top: 10%;
+    height: 150%;
+    width: 100%;
+    background-image: url(https://www.yubo.live/assets/img/footer-bg.svg);
+    background-size: cover;
+    background-position: top;
+}
+
+#YUBO-stand img{
+    position: absolute;
+    top: -30%;
+    left: 30%;
+}
+
+#YUBO-stand img{
+    height: 400px;
+}
+
+
+#nav-sec{
+    position: relative;
+    top: 18%;
+    height: 10%;
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 160px;
+    font-family:Right;
+    font-size: 20px;
+}
+
+#footer #About{
+    position: relative;
+    height: 20%;
+    width: 10%;
+    top: 17%;
+    left: 81px;
+    background-color: r;
+    font-size: 20px;
+    font-family: Right Grotesk;
+    line-height: 31px;
+}
+
+#footer #About:hover{
+    cursor: pointer;
+}
+
+#abt-us::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 27%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s;
+}
+
+#abt-us:hover::after{
+    width: 56%;
+    
+}
+
+#news::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 32%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s;
+}
+
+#news:hover::after{
+    width: 62%;
+}
+
+#career::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 25%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s;
+}
+
+#career:hover::after{
+    width: 46;
+}
+
+#cont-us::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 33%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s;
+}
+
+#cont-us:hover::after{
+    width: 64%;
+}
+
+
+
+#footer #Community{
+    position: absolute;
+    height: 10%;
+    width: 14%;
+    top: 27%;
+    left: 310px;
+    background-color: r;
+    font-size: 20px;
+    font-family: Right Grotesk;
+    line-height: 31px;
+}
+
+#footer #Community:hover{
+    cursor: pointer;
+}
+
+#comm::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 48%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s; 
+}
+
+#comm:hover::after{
+    width: 95%;
+}
+
+
+#blog::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 9%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s; 
+}
+
+#blog:hover::after{
+    width: 18%;
+}
+
+
+
+#footer #Safety-hub{
+    position: absolute;
+    height: 20%;
+    width: 13%;
+    top: 27%;
+    left: 600px;
+    background-color: r;
+    font-size: 20px;
+    font-family: Right Grotesk;
+    line-height: 31px;
+}
+
+#footer #Safety-hub:hover{
+    cursor: pointer;
+}
+
+#our::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 34%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s; 
+}
+
+#our:hover::after{
+    width: 64%;
+}
+
+#adv::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 15%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s; 
+}
+
+#adv:hover::after{
+    width: 29%;
+}
+
+#tools::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 28%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s; 
+}
+
+#tools:hover::after{
+    width: 54%;
+}
+
+#guide::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 17%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s; 
+}
+
+#guide:hover::after{
+    width: 32%;
+}
+
+#reso::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 25%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s; 
+}
+
+#reso:hover::after{
+    width: 49%;
+}
+
+#trans::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 49%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s; 
+}
+
+#trans:hover::after{
+    width: 95%;
+}
+
+#repo::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 16%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s; 
+}
+
+#repo:hover::after{
+    width: 34%;
+}
+
+
+
+#footer #Privacy-hub{
+    position: absolute;
+    height: 20%;
+    width: 18%;
+    top: 27%;
+    left: 880px;
+    background-color: r;
+    font-size: 20px;
+    font-family: Right Grotesk;
+    line-height: 31px;
+}
+
+#footer #Privacy-hub:hover{
+    cursor: pointer;
+}
+
+#glance::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 40%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s; 
+}
+
+#glance:hover::after{
+    width: 78%;
+}
+
+
+#policy::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 23%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s; 
+}
+
+#policy:hover::after{
+    width: 45%;
+}
+
+
+#notice::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 30%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s; 
+}
+
+#notice:hover::after{
+    width: 58%;
+}
+
+
+#cook::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 25%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s; 
+}
+
+#cook:hover::after{
+    width: 48%;
+}
+
+
+#tip::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 38%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s; 
+}
+
+#tip:hover::after{
+    width: 76%;
+}
+
+#data::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 44%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s; 
+}
+
+#data:hover::after{
+    width: 88%;
+}
+
+#dec::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 49%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s; 
+}
+
+#dec:hover::after{
+    width: 98%;
+}
+
+
+
+#footer #Support{
+    position: absolute;
+    height: 10%;
+    width: 10%;
+    top: 27%;
+    left: 1180px;
+    font-size: 20px;
+    font-family: Right Grotesk;
+    line-height: 31px;
+}
+
+#footer #Support:hover{
+    cursor: pointer;
+}
+
+#help::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 37%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s; 
+}
+
+#help:hover::after h2{
+    content: "";
+    height: 5px;
+    width: 3px;
+}
+
+#faq::after{
+    content: "";
+    height: 2px;
+    width: 0%;
+    left: 14%;
+    background-color: #000;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    bottom: 5;
+    transition: all ease 0.3s; 
+}
+
+#faq:hover::after{
+    width: 25%;
+}
+
+
+#Social-panel{
+    position: absolute;
+    height: 8%;
+    width:100%;
+    top: 58%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+}
+
+#Social-panel:hover{
+    cursor: pointer;
+}
+
+#bottom-line_info{
+    position: absolute;
+    height: 8%;
+    width:100%;
+    top: 75%;
+    font-family:Right Grotesk;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#legal-info{
+    position: absolute;
+    left: 85px;
+   display: flex;
+   align-items: center;
+   gap: 25px;
+   font-size: 20px;
+}
+
+#Origin{
+    position:absolute;
+    left:850px;
+   display: flex;
+    
+}
+
+#lang{
+    position:absolute;
+    font-size: 25px;
+    right: 75px;
+}

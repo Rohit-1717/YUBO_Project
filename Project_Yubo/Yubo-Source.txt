@@ -1,0 +1,116 @@
+1.Page 1 BgImg
+
+https://images.prismic.io/yubo/6118791b-2978-4f39-bc06-0d5d43cd6e93_LargeGraphics.webp?auto=compress,format&rect=0,0,1600,900&w=1680&h=945
+
+2. Page 2 Phone
+
+https://www.yubo.live/_next/image?url=https%3A%2F%2Fyubo.cdn.prismic.io%2Fyubo%2Fd4e74f33-4588-4c2d-af34-dda742627f7b_Phone.svg&w=384&q=75
+
+3. page 2 Lets Yubo
+
+https://www.yubo.live/_next/image?url=%2Fassets%2Fimg%2FBo.svg&w=256&q=75
+
+4. Page 2 that it
+
+https://www.yubo.live/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fyubo%2Fdd4cbf7f-f20b-4978-9ac4-2ba757b0c74d_lit.webp%3Fauto%3Dcompress%2Cformat%26rect%3D0%2C0%2C226%2C138%26w%3D226%26h%3D138&w=256&q=75
+
+5. page 2
+
+Hey Friends
+
+https://www.yubo.live/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fyubo%2Fb96435a1-f648-4467-8272-53f9805964c5_hey.webp%3Fauto%3Dcompress%2Cformat%26rect%3D0%2C0%2C236%2C134%26w%3D217%26h%3D123&w=256&q=75
+
+6.page 2 
+
+join our chat 
+
+https://www.yubo.live/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fyubo%2Fb4b46af0-0ee6-41c2-8b07-130d03a2764d_join.webp%3Fauto%3Dcompress%2Cformat%26rect%3D0%2C0%2C344%2C181%26w%3D344%26h%3D181&w=384&q=75
+
+7. page 2
+
+Apple app store
+
+https://www.yubo.live/_next/image?url=https%3A%2F%2Fyubo.cdn.prismic.io%2Fyubo%2F14a3aea6-e219-40d9-8b5f-e72836efce90_appStore.svg&w=256&q=75
+
+8. page 2
+
+Android aap store
+
+https://www.yubo.live/_next/image?url=https%3A%2F%2Fyubo.cdn.prismic.io%2Fyubo%2F270973bc-6438-49a4-af20-c258a10bab3e_googleStore.svg&w=256&q=75
+
+9. Page 2 Cap girl 
+
+https://www.yubo.live/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fyubo%2F82f890e9-ec72-4384-a0ba-67e945627f47_210211_Yubo_HSS_04_568--scaled.jpg.jpg%3Fauto%3Dcompress%2Cformat&w=640&q=75
+
+10. page 2 
+
+Yubo Logo White 
+
+https://www.yubo.live/_next/image?url=%2Fassets%2Fimg%2Flogo.svg&w=256&q=75
+
+11. page 2.
+
+you belong here
+
+https://www.yubo.live/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fyubo%2Fe6b8d108-ce2b-4674-ae41-53e30ff16388_belong.webp%3Fauto%3Dcompress%2Cformat&w=640&q=75
+
+12. page 3
+
+Yubo Logo
+
+https://www.yubo.live/_next/image?url=%2Fassets%2Fimg%2Flogo.svg&w=256&q=75
+
+13. Page 3
+
+Pink tips tricks
+
+https://images.prismic.io/yubo/4e7a5333-9e65-4a60-a2d1-7b9680e002f2_Blog_CommunityTipsAndTricks.png?auto=compress,format
+
+14. page 3
+
+Yubo Horoscope
+
+https://images.prismic.io/yubo/42e1a41b-e054-4f52-a214-e3ea5e475aa4_Blog_Yubo+Horoscope.png?auto=compress,format
+
+15. page 3
+
+Community building and making friends 
+
+https://images.prismic.io/yubo/f34dcf26-d146-4205-ab86-46e4daef0781_Blog_Community+Building+and+Making+Friends+on+Yubo.png?auto=compress,format
+
+16. Page 3
+
+Here for all fit
+
+https://www.yubo.live/_next/image?url=%2Fassets%2Fimg%2Ffooter-bo.webp&w=640&q=75
+
+17. Page 3
+
+insta 
+
+https://www.yubo.live/_next/image?url=%2Fassets%2Fimg%2Fsocial%2FInstagram.svg&w=64&q=75
+
+18. page 3
+
+twitter
+
+https://www.yubo.live/_next/image?url=%2Fassets%2Fimg%2Fsocial%2FTwitter.svg&w=64&q=75
+
+19. page 3
+
+youtube
+
+https://www.yubo.live/_next/image?url=%2Fassets%2Fimg%2Fsocial%2FYoutube.svg&w=64&q=75
+
+20. Page 3
+
+Tiktok
+
+https://www.yubo.live/_next/image?url=%2Fassets%2Fimg%2Fsocial%2FTikTok.svg&w=64&q=75
+
+21. Page 3
+
+Linkedin
+
+https://www.yubo.live/_next/image?url=%2Fassets%2Fimg%2Fsocial%2FLinkedin.svg&w=64&q=75
+
